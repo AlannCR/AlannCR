@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AlannCR
 - 🌱 I’m currently learning html, CSS e JavaScript.
+- My Linkedin www.linkedin.com/in/alan-costa-da-rosa-445924119
 
 <!---
 AlannCR/AlannCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
