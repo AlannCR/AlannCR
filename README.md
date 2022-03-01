@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlannCR
-- 🌱 I’m currently learning html, CSS, PHP and C#.
+- 🌱 I’m currently learning html, CSS e JavaScript.
 
 <!---
 AlannCR/AlannCR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
