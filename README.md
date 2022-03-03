@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AlannCR
+- 👋 Hi, I’m Alan
 - 🌱 I’m currently learning html, CSS e JavaScript.
 - My Linkedin www.linkedin.com/in/alan-costa-da-rosa-445924119
 
