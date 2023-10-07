@@ -1,8 +1,9 @@
+<!--
 <div>
    <img align="right" height="270" alt="coding-time" src="https://github.com/LuigiGf/LuigiGf/blob/main/code.gif"> 
 </div>
-
-<p align="center">Hey, How's everything?? I'm Dev. Alan!<br><br><br><br> <P1></P1><strong>Using technology to make dreams come true.</strong> <br><br><br><br><br><br></p>&nbsp;
+-->
+<p align="center">Hey, How's everything?? I'm Dev. Alan!<br><br> <P1></P1><strong>Using technology to make dreams come true.</strong> <br><br><br><br></p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=AlannCR&theme=radical&mode=weekly" />
